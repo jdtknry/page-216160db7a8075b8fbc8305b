@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d542bc9889.ningshikong.cn/sitemap.xml
